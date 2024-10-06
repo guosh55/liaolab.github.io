@@ -22,13 +22,13 @@ repository               : "https://guosh55.github.io/liaolab.github.io/"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Liao Lab"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Seek adventures that open our minds."
+  location         : "Guangzhou-China"
+  employer         : "SYSUCC"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "liaowt@sysucc.org.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
