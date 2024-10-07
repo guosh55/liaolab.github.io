@@ -3,7 +3,7 @@ title: "Oncogenic KRAS drives immunosuppression of colorectal cancer by impairin
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2024
+date: 2024-09-01
 venue: 'Science Immunology'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
