@@ -21,10 +21,10 @@ repository               : "https://guosh55.github.io/liaolab.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Liao Lab"
+  avatar           : "liao.png"
+  name             : "Wenting Liao"
   pronouns         : # example: "she/her"  
-  bio              : "Seek adventures that open our minds."
+  bio              : "PI"
   location         : "Guangzhou-China"
   employer         : "SYSUCC"
   uri              : # URL
